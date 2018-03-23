@@ -1,0 +1,10 @@
+{
+    "description": "A JSBL Computer Science Research Guide",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"Computer Science Research Guide",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/mpereira.md"        
+    }
+}
